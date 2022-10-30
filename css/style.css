@@ -7,8 +7,27 @@
     background-color: yellow;
     font-weight: bold;
 }
-
+.text3{
+letter-spacing:3px;
+}
+.text4{
+    letter-spacing:3px;
+}  
+.text5{
+    letter-spacing:3px;
+}  
+.text6{
+    letter-spacing:3px;
+}  
+.text7{
+    background-color: yellow;
+    font-weight: bold
+     letter-spacing:3px;
+}  
 .text8{
+    letter-spacing:3px;
+}    
+.text9{
     color: red;
     background-color: yellow;
     font-style: italic;
